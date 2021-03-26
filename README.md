@@ -14,7 +14,9 @@
 To test the classifier, run the `performRecognition.py` script.
 
 **python performRecognition.py -c digits_cls.pkl -i 1.jpg**
+
 **python performRecognition.py -c digits_cls.pkl -i 2.jpg**
+
 **python performRecognition.py -c digits_cls.pkl -i 3.jpg**
 
 `The respective output is then displayed!`
